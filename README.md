@@ -630,7 +630,7 @@ Trust Wallet connection can be set up similarly, but since Trust Wallet is typic
 
 These examples demonstrate how to connect a React application to MetaMask and Trust Wallet, allowing users to interact with the Ethereum blockchain and manage their accounts and balances.
 
-## 9. How to Use MetaMask
+## 8. How to Use MetaMask
 
 MetaMask is a popular Ethereum wallet that allows you to manage accounts, send transactions, store tokens, and connect to different blockchains. Here’s a step-by-step guide on how to use MetaMask, including adding accounts, doing transactions, storing tokens, and adding a new blockchain.
 
@@ -724,7 +724,7 @@ MetaMask is a popular Ethereum wallet that allows you to manage accounts, send t
 
 These steps allow you to efficiently manage your cryptocurrency assets and interact with various blockchains using MetaMask.
 
-## 10. Concept of Gas Fee
+## 9. Concept of Gas Fee
 
 Gas fees are transaction fees paid by users to compensate for the computational energy required to process and validate transactions on the Ethereum blockchain. These fees ensure that the network remains secure and functional.
 
@@ -779,7 +779,7 @@ Imagine gas fees as postage for a letter. Just like you pay postage based on the
 
 Gas fees ensure that the Ethereum network remains secure and that transactions are processed efficiently.
 
-## 11. Using Ethereum and Binance Explorers
+## 10. Using Ethereum and Binance Explorers
 
 Blockchain explorers are tools that allow you to view details about transactions, addresses, and other activities on a blockchain. Two popular explorers are Etherscan for Ethereum and BscScan for Binance Smart Chain.
 
@@ -850,7 +850,7 @@ Blockchain explorers are tools that allow you to view details about transactions
 
 These explorers help you verify transactions, monitor wallet activity, and interact with smart contracts on their respective blockchains.
 
-## 12. Automated Market Makers (AMM) Explained
+## 11. Automated Market Makers (AMM) Explained
 
 Automated Market Makers (AMMs) are a type of decentralized exchange (DEX) protocol that rely on mathematical formulas to price assets. Instead of using an order book like traditional exchanges, AMMs use liquidity pools to facilitate trades directly from the pool, without needing a counterparty.
 
@@ -910,7 +910,7 @@ Uniswap is one of the most well-known AMMs that operates on the Ethereum blockch
 
 AMMs like Uniswap have revolutionized decentralized trading by enabling users to trade directly from liquidity pools, making markets more efficient and accessible.
 
-## 13. ABI, Providers, How to Create Instances of Web3 and Call Functions from ABI
+## 12. ABI, Providers, How to Create Instances of Web3 and Call Functions from ABI
 
 ### Understanding ABI, Providers, and Web3 Instances
 
@@ -1032,7 +1032,7 @@ A provider is a connection to the Ethereum network. It can be a node provided by
 
 This setup allows you to interact with smart contracts from your web application, enabling decentralized functionality.
 
-## 14. Implementing Swap Functionality in a DApp
+## 13. Implementing Swap Functionality in a DApp
 
 To implement a swap functionality in a decentralized application (DApp), you'll typically interact with a decentralized exchange (DEX) like Uniswap. Below is a brief explanation of the steps and functions involved, with a simple example.
 
@@ -1195,7 +1195,7 @@ payable": false,
 
 This example outlines the fundamental steps required to implement token swapping functionality in a DApp using Web3 and Uniswap.
 
-## 15. Implementing Liquidity Functionality in a DApp
+## 14. Implementing Liquidity Functionality in a DApp
 
 To implement liquidity functionality in a decentralized application (DApp), you typically interact with a decentralized exchange (DEX) like Uniswap. This involves adding liquidity to and removing liquidity from a liquidity pool. Below is a simple explanation and example of how to do this.
 
@@ -1474,7 +1474,7 @@ To implement liquidity functionality in a decentralized application (DApp), you 
 
 This example outlines the fundamental steps required to implement liquidity functionality in a DApp using Web3 and Uniswap.
 
-## 16. Big Number Issue Explanation and Solution
+## 15. Big Number Issue Explanation and Solution
 
 ### Understanding Big Number Issues in JavaScript
 
@@ -1560,7 +1560,7 @@ To handle large integers safely, you can use libraries like `BN.js`, `bignumber.
 
 By using these libraries, you can handle large numbers accurately in your blockchain applications, ensuring precision and correctness in your computations.
 
-## 17. Yield Farming in DeFi
+## 16. Yield Farming in DeFi
 
 ### Yield Farming in DeFi
 
@@ -1668,7 +1668,7 @@ Yield farming, also known as liquidity mining, is a way to earn rewards with cry
 
 Yield farming offers high rewards but also comes with risks, such as impermanent loss and smart contract vulnerabilities. It's essential to understand these risks before participating in yield farming.
 
-## 18. Basics of NFTs
+## 17. Basics of NFTs
 
 ### Basics of NFTs
 
@@ -1799,7 +1799,7 @@ Yield farming offers high rewards but also comes with risks, such as impermanent
 
 NFTs have revolutionized how digital assets are owned and traded, providing new opportunities for creators and collectors in the digital space.
 
-## 19. Basics of Lending and Borrowing Protocols (Compound and Aave)
+## 18. Basics of Lending and Borrowing Protocols (Compound and Aave)
 
 ### Basics of Lending and Borrowing Protocols (Compound and Aave)
 
